@@ -20,14 +20,17 @@ The final deliverable is a comprehensive Power BI dashboard designed to communic
 - **Data Modeling:** Connected and transformed raw healthcare data.  
 - **Advanced DAX Measures:** Created calculated measures and tables to analyze trends.  
 - **Interactive Visualizations:** Used key influencers, outlier detection, and drill-through functionality.  
-- **Professional Dashboard:** Incorporated HealthStat branding and user-friendly navigation.  
+- **Professional Dashboard:** Incorporated HealthStat branding and user-friendly navigation.
 
-## File Structure  
-- `/data/` - Contains anonymized healthcare datasets used for analysis.  
-- `/reports/` - Includes Power BI (.pbix) file with the final report.  
-- `/screenshots/` - Visual snapshots of the dashboard and key visualizations.  
-- `/docs/` - Supporting documentation for the project.  
+# Snapshot of Dashboard (Power BI Service)
 
+![Screenshot 2025-01-10 193736](https://github.com/user-attachments/assets/c5c55fd9-5931-4c0b-8d79-b4a77b0c3a00)
+
+![Screenshot 2025-01-10 193753](https://github.com/user-attachments/assets/2b42673d-5758-4194-9b18-b6f5f00838d6)
+
+![Screenshot 2025-01-10 193803](https://github.com/user-attachments/assets/cc96b024-6f91-4673-87b6-727f250f20c5)
+
+![Screenshot 2025-01-10 193813](https://github.com/user-attachments/assets/41c73472-d9a7-4a23-96b8-b5aabebde40b)
 ## Prerequisites  
 - **Power BI Desktop**  
 - Basic knowledge of Power BI, DAX, and data visualization principles.  
