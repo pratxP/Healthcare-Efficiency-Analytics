@@ -31,8 +31,3 @@ The final deliverable is a comprehensive Power BI dashboard designed to communic
 ## Prerequisites  
 - **Power BI Desktop**  
 - Basic knowledge of Power BI, DAX, and data visualization principles.  
-
-## Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/healthcare-efficiency-analytics.git
